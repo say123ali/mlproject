@@ -52,3 +52,4 @@ Complete project structure and understanding Structure for End to End Data Scien
 12. Dockerfile - To deploy in the cloud.
 
 Deployment Of ML Application In Azure Cloud Using Github Actions
+1. Create resource to create web app
