@@ -53,3 +53,8 @@ Complete project structure and understanding Structure for End to End Data Scien
 
 ## Deployment Of ML Application In Azure Cloud Using Github Actions
 1. Create resource to create web app
+<img src="azuredeploymentstep.jpg">
+2.In Github Actions you will see url and workflow
+<img src="azuredeploymentapp.jpg">
+<img src="mlprojectscreenshot_flaskapi.png">
+   
